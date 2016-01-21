@@ -1,1 +1,1 @@
-This is test c file
+delete a line and add another line
